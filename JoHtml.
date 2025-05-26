@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sermons</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Sermons</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="sermons.html">Sermons</a>
+      <a href="branches.html">Branches</a>
+      <a href="contact.html">Contact</a>
+      <a href="donate.html">Donate</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Latest Sermons</h2>
+    <p>Listen to our sermons below:</p>
+    <audio controls>
+      <source src="sermon1.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <!-- Add more audio players for other sermons -->
+  </main>
+  <footer>
+    <p>&copy; 2025 DSBH Ministries</p>
+  </footer>
+</body>
+</html>
