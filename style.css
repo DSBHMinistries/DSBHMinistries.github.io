@@ -1,8 +1,0 @@
-
-body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #333; }
-header { background: #005; color: white; padding: 1rem; text-align: center; }
-nav a { margin: 0 10px; color: white; text-decoration: none; }
-main { padding: 1rem; }
-footer { background: #333; color: white; text-align: center; padding: 1rem; margin-top: 2rem; }
-.logo { max-height: 80px; display: block; margin: 0 auto 1rem; }
-section img { width: 100%; max-width: 600px; display: block; margin: 1rem auto; }
